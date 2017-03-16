@@ -1,0 +1,31 @@
+{
+  "name": "dehimalaya",
+  "version": "1.0.0",
+  "description": "Shopping Site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prdp789/DeHimalaya.git"
+  },
+  "keywords": [
+    "Craft"
+  ],
+  "author": "Pradeep/Sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prdp789/DeHimalaya/issues"
+  },
+  "homepage": "https://github.com/prdp789/DeHimalaya#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0",
+    "gulp-uglifycss": "^1.0.6",
+    "run-sequence": "^1.2.2",
+    "streamqueue": "^1.1.1"
+  }
+}
